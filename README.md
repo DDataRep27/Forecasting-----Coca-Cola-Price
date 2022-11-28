@@ -1,2 +1,4 @@
 # Forecasting-----Coca-Cola-Price
-Prepare a time series model to predict on the coca cola price dataset
+
+
+### Prepare a document for each model explaining the no. of dummy variables created and also compute the RMSE value for each model. Finalise a model you will use for forecasting.
